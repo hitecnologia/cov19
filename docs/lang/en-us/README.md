@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./docs/assets/banner.jpg" >
+  <img src="/docs/assets/banner.jpg" >
 </p>
 
 <sub>*COV19* - Simple respirator to help coronavirus victims </sub>
