@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/hitecnologia/cov19/tree/master/docs/assets/banner.jpg" >
+  <img src="docs/assets/banner.jpg" >
 </p>
 
 <sub>*COV19* - Um respirador simples, para ajudar vítimas do vírus corona </sub>
