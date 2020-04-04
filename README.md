@@ -10,7 +10,7 @@ Our goal was to create a simple and inexpensive respirator using technologies wi
 
 This documentation and the project repository can be used without limitations. Our only goal is to help save lives.
 
-## Project detail:
+## Project details:
 
 * **Projeto Mecânico:** A pasta projeto-mecanico contém...
 * **Projeto Eletrônico:** A pasta projeto-eletronico contém...
