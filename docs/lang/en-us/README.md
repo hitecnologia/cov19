@@ -6,7 +6,7 @@
 <p align="center">
   <img src="/docs/assets/banner.jpg" >
 </p>
-
+#cov19
 <sub>*COV19* - Simple respirator to help coronavirus victims </sub>
 
 Respirator designed by engineer team and partners of HI Tecnologia, with the aim of helping to save lives during the pandemic of the corona virus.
