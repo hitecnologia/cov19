@@ -1,31 +1,30 @@
 <p align="center">
   <span>Portugues</span> |
-  <a href="https://github.com/hitecnologia/cov19/tree/master/lang/english#cov19">English</a>
+  <a href="https://github.com/hitecnologia/cov19/tree/master/docs/lang/eng#cov19">English</a>
 </p>
 
 <p align="center">
-  <img src="banner.jpg" >
+  <img src="https://github.com/hitecnologia/cov19/tree/master/docs/assets/banner.jpg" >
 </p>
 
-<sub>*COV19* - Simple respirator to help coronavirus victims </sub>
+<sub>*COV19* - Um respirador simples, para ajudar vítimas do vírus corona </sub>
 
-Respirator designed by engineer team and partners of HI Tecnologia, with the aim of helping to save lives during the pandemic of the corona virus.
+Respirador projetado pela equipe de engenharia e parceiros da HI Tecnologia, com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona.
 
-Our goal was to create a simple and inexpensive respirator using technologies with robustness acceptable for the application.
+Nosso objetivo era criar um respirador simples e barato, utilizando tecnologias com robustez aceitável para a aplicação.
 
-This documentation and the project repository can be used without limitations. Our only goal is to help save lives.
+Esta documentação e o repositório do projeto podem ser usados ​​sem limitações. Nosso único objetivo é ajudar a salvar vidas.
 
-## Project details:
+## Detalhes do Projeto:
 
-* **Projeto Mecânico:** A pasta projeto-mecanico contém...
-* **Projeto Eletrônico:** A pasta projeto-eletronico contém...
-* **Firmware:** A pasta firmware contém...
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/electronic">Projeto eletrônico;</a>**
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/firmware">Projeto do firmware;</a>**
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical">Projeto mecânico.</a>**
 
 
 **Links:**
 * [Site](https://www.hitecnologia.com.br/)
 * [LinkedIn](https://www.linkedin.com/company/hi-tecnologia/)
-* [Medium](https://www.medium.com)
 
 ---
 
