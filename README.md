@@ -1,12 +1,12 @@
 <p align="center">
   <span>Portugues</span> |
-  <a href="https://github.com/hitecnologia/cov19/tree/master/docs/lang/eng#cov19">English</a>
+  <a href="https://github.com/hitecnologia/cov19/tree/master/docs/lang/en-us#cov19">English</a>
 </p>
 
 <p align="center">
   <img src="docs/assets/banner.jpg" >
 </p>
-
+#cov19
 <sub>*COV19* - Um respirador simples, para ajudar vítimas do vírus corona </sub>
 
 Respirador projetado pela equipe de engenharia e parceiros da HI Tecnologia, com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona.
