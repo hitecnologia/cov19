@@ -6,7 +6,7 @@
 <p align="center">
   <img src="docs/assets/banner.jpg" >
 </p>
-#cov19
+
 <sub>*COV19* - Um respirador simples, para ajudar vítimas do vírus corona </sub>
 
 Respirador projetado pela equipe de engenharia e parceiros da HI Tecnologia, com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona.
