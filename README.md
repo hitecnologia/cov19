@@ -1,6 +1,6 @@
 # cov19
 <p align="center">
-  <img src="description/banner.jpg" >
+  <img src="banner.jpg" >
 </p>
 
 <sub>*COV19* - simple respirator to help prevent coronavirus victims </sub>
