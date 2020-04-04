@@ -1,5 +1,5 @@
 <p align="center">
-  <span>Portuguese</span> |
+  <span>Portugues</span> |
   <a href="https://github.com/hitecnologia/cov19/tree/master/lang/english#cov19">English</a>
 </p>
 
