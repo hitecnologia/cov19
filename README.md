@@ -10,7 +10,7 @@
 <sub>*COV19* - Um ventilador pulmonar emergencial, para ajudar as vítimas do vírus corona </sub>
 
 <p align="center">
-  <img src="docs/assets/prot6_a.jpeg" >
+  <img src="docs/assets/prot6_a.png" >
 </p>
 
 Ventilador pulmonar projetado pela equipe de engenharia e parceiros da HI Tecnologia, com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona.
