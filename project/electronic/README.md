@@ -21,7 +21,7 @@ por vários anos e termos obtido orientação e ajuda de vários profissionais de
 saúde, não temos expertise em equipamentos médicos e portanto, 
 podem ser necessárias funcionalidades ou ajustes no projeto corrente.
 
-Toda documentação e o repositório do projeto podem ser usados ??sem limitações.
+Toda documentação e o repositório do projeto podem ser usados sem limitações.
 
 
 <sub>Projeto eletrônico</sub>

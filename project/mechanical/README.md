@@ -12,16 +12,19 @@
 Ventilador pulmonar projetado pela equipe de engenharia e parceiros da HI Tecnologia, 
 com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona.
 
-Nosso objetivo foi criar um ventilador pulmonar simples, barato e que possa ser 
-reproduzido em escala, por outras pessoas, de forma a auxiliar no tratamento 
-dos enfermos do virus corona.
-
 Deve ser observado que, apesar de atuarmos nos setor de automação industrial 
 por vários anos e termos obtido orientação e ajuda de vários profissionais de 
 saúde, não temos expertise em equipamentos médicos e portanto, 
 podem ser necessárias funcionalidades ou ajustes no projeto corrente.
 
 Toda documentação e o repositório do projeto podem ser usados ​​sem limitações.
+
+<p align="center">
+  <img src="../../project/mechanical/PRO_6d.png">
+  <img src="../../project/mechanical/PRO_6e.png">
+  <img src="../../project/mechanical/PRO_6j.jpeg">
+</p>
+
 
 ## Detalhes do Projeto:
 
