@@ -7,7 +7,7 @@
   <img src="../../docs/assets/banner.jpeg">
 </p>
 
-<sub>*COV19* - Um ventilador pulmonar emergencial, para ajudar as vítimas do vírus corona </sub>
+# VPE - Um ventilador pulmonar emergencial, para ajudar as vítimas do vírus corona
 
 Ventilador pulmonar projetado pela equipe de engenharia e parceiros da HI Tecnologia, 
 com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona.
@@ -17,15 +17,17 @@ por vários anos e termos obtido orientação e ajuda de vários profissionais de
 saúde, não temos expertise em equipamentos médicos e portanto, 
 podem ser necessárias funcionalidades ou ajustes no projeto corrente.
 
-Toda documentação e o repositório do projeto podem ser usados ??sem limitações.
+Toda documentação e o repositório do projeto podem ser usados sem limitações.
 
 
-## Detalhes do Projeto:
+## VPE - Firmware
 
-Liberado até dia 13/04/2020
+A aplicação esta em desenvolvimento e a versao 1.0 deverá ser liberada até dia 13/04/2020
+juntamente com o firmware.
+
 
 **Links:**
-* [HI Tecnologia Site](https://www.hitecnologia.com.br/)
+ - [HI Tecnologia Site](https://www.hitecnologia.com.br/)
 
 ---
 
