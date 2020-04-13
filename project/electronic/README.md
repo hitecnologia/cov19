@@ -23,8 +23,8 @@ Toda documentação e o repositório do projeto podem ser usados sem limitações.
 ## VPE - Projeto eletrônico
 
 <p align="center">
-  <img src="../../project/electronic/eletronic_f1.jpg" height="350">
-  <img src="../../project/electronic/eletronic_f2.jpg" height="350">
+  <img src="../../project/electronic/front_f1.png" height="350">
+  <img src="../../project/electronic/back_f1.png" height="350">
 </p>
 
 O hardware desenvolvido possui os seguintes recursos:
