@@ -28,8 +28,14 @@ As informações e links a seguir são necessárias caso seja necessário ou de inter
 ver o programa de aplicação ou modifica-lo para adequações ou melhorias.
 
 As aplicações presentes a seguir foram desenvolvidas em **linguagem ST** utilizando o ambiente de 
-desenvolvimento **HIstudio** da HI Tecnologia. Para este projeto, foi customizada uma versão do 
-**HIstudio** (versão 19.0.0) que suporta o módulo de hardware desenvolvido denominado de **COV19**.
+desenvolvimento **HIstudio** da HI Tecnologia. 
+
+<p align="center">
+  <img src="../../project/application/histudio.png" height="400">
+</p>
+
+Para este projeto, foi customizada uma versão do **HIstudio** (versão 19.0.0) 
+que suporta o módulo de hardware desenvolvido denominado de **COV19**.
 Esta versão pode ser obtida gratuitamente no link abaixo:
 
  - **<a href="https://www.hitecnologia.com.br/media/uploads/box/installhistudio19.0.00.exe">HIstudio Ver 19.0.0</a>** 
