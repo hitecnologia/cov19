@@ -48,7 +48,7 @@ O hardware desenvolvido possui os seguintes recursos:
 
  - **<a href="https://github.com/hitecnologia/cov19/tree/master/project/electronic/BOM_PartType-PDE921000100.htm">Lista de materiais</a>**
  - **<a href="https://github.com/hitecnologia/cov19/tree/master/project/electronic/COV19_STL.zip">Arquivos Geber</a>**
- - **<a href="https://github.com/hitecnologia/cov19/tree/master/project/electronic/PDE921000100.pdf">Documentação eletrônica</a>**
+ - **<a href="https://github.com/hitecnologia/cov19/tree/master/project/electronic/PDE921000100.pdf">Documentação eletrônica COD19-R0</a>**
 
 
 **Links:**
