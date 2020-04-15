@@ -49,7 +49,7 @@ Por exemplo:
 
 ou outro similar.
 
-Para permitir a comunicação do **HIstudio** com o módulo seáa necessário a utilização do servidor de comunicação **MPL Server**. 
+Para permitir a comunicação do **HIstudio** com o módulo será necessário a utilização do servidor de comunicação **MPL Server**. 
 Este servidor (OPC Server) foi desenvolvido pela HI Tecnologia e pode ser baixado gratuitamente no <a href="https://www.hitecnologia.com.br">nosso site</a>,
 ou diretamente no link abaixo. 
  
