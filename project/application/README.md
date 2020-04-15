@@ -38,8 +38,8 @@ Para este projeto, foi customizada uma versão do **HIstudio** (versão 19.0.0)
 que suporta o módulo de hardware desenvolvido denominado de **COV19**.
 Esta versão pode ser obtida gratuitamente no link abaixo:
 
- - **<a href="https://www.hitecnologia.com.br/media/uploads/box/installhistudio19.0.00.exe">HIstudio Ver 19.0.0</a>** 
-
+ - **<a href="https://hitecnologia.github.io/cov19/downloads/installhistudio19.0.00.exe">HIstudio Ver 19.0.0</a>** 
+                
 Para se comunicar com o módulo é necessário um canal serial (ou conversor usb/serial) 
 visto que foi disponibilizado apenas os pinos TX/RX para esta função. Deve-se utilizar um driver TTL/RS232-C 
 para esta comunicação. Este módulo é facilmente encontrado no mercado.
@@ -50,13 +50,11 @@ Por exemplo:
 ou outro similar.
 
 Para permitir a comunicação do **HIstudio** com o módulo será necessário a utilização do servidor de comunicação **MPL Server**. 
-Este servidor (OPC Server) foi desenvolvido pela HI Tecnologia e pode ser baixado gratuitamente no <a href="https://www.hitecnologia.com.br">nosso site</a>,
-ou diretamente no link abaixo. 
+Este servidor (OPC Server) foi desenvolvido pela HI Tecnologia e pode ser baixado gratuitamente no link a seguirÇ
  
- - **<a href="https://www.hitecnologia.com.br/downloads/installmplserver1.0.15.exe">Servidor OPC MPL Server</a>**
+ - **<a href="https://hitecnologia.github.io/cov19/downloads/installmplserver1.0.15.exe">Servidor OPC MPL Server</a>**
  
-**Obs:** Será necessário um cadastro prévio para baixar este aplicativo. 
-            
+           
 Com estes 2 ambientes instalados é possível abrir a aplicação disponibilizada a seguir.
 
 
