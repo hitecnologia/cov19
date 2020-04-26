@@ -7,7 +7,11 @@
   <img src="docs/assets/banner.jpeg" >
 </p>
 
-#VPE-19 - Ventilador pulmonar emergencial</sub>
+# VPE-19 - Ventilador pulmonar emergencial</sub>
+
+Ventilador pulmonar projetado pela equipe de engenharia e parceiros da HI Tecnologia, com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona COVID-19.
+
+Nosso objetivo foi criar um ventilador pulmonar simples, barato e que possa ser reproduzido em escala, por outras pessoas, de forma a auxiliar no tratamento dos enfermos do virus corona CODIV-19.
 
 ## Versão 2.0
 
@@ -15,16 +19,11 @@
   <img src="docs/assets/prot7i.jpeg" height="300">
 </p>
 
-
 ## Versão 1.0
 
 <p align="center">
   <img src="docs/assets/pro6_a.png" height="300">
 </p>
-
-Ventilador pulmonar projetado pela equipe de engenharia e parceiros da HI Tecnologia, com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona COVID-19.
-
-Nosso objetivo foi criar um ventilador pulmonar simples, barato e que possa ser reproduzido em escala, por outras pessoas, de forma a auxiliar no tratamento dos enfermos do virus corona CODIV-19.
 
 Para chegarmos ao estágio atual foram desenvolvidos 7 protótipos mecânicos e liberadas 2 versões do produto. 
 A **versão 1** foi liberada a aproximadamente 30 dias atrás (23//03/2020). 
