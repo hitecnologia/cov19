@@ -7,11 +7,19 @@
   <img src="docs/assets/banner.jpeg" >
 </p>
 
-<sub>*VPE19* - Ventilador pulmonar emergencial</sub>
+#VPE-19 - Ventilador pulmonar emergencial</sub>
+
+## Versão 2.0
 
 <p align="center">
-  <img src="docs/assets/pro6_a.png" >
-  <img src="docs/assets/prot7j.jpeg" >
+  <img src="docs/assets/prot7i.jpeg" height="300">
+</p>
+
+
+## Versão 1.0
+
+<p align="center">
+  <img src="docs/assets/pro6_a.png" height="300">
 </p>
 
 Ventilador pulmonar projetado pela equipe de engenharia e parceiros da HI Tecnologia, com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona COVID-19.
