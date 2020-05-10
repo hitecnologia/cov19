@@ -13,7 +13,7 @@ Ventilador pulmonar projetado pela equipe de engenharia e parceiros da HI Tecnol
 com o objetivo de ajudar a salvar vidas durante a pandemia do vírus corona COVID-19.
 
 Para chegarmos ao estágio atual foram desenvolvidos 7 protótipos mecânicos e liberadas 2 versões do produto. 
-A **versão 1** foi liberada a aproximadamente 30 dias atrás (23//03/2020). 
+A **versão 1** foi liberada a aproximadamente em 23/03/2020. 
 Durante os testes que continuamos realizando após a liberação desta versão constatamos que o esforço aplicado 
 ao motor utilizado para movimentar o AMBU (step motor de 13 Kgf.cm) estava mantendo tanto o motor de passo quanto 
 o driver utilizado operando em condições severas, comprometendo sua vida útil e com isto tornando-se inadequado 
@@ -39,17 +39,39 @@ Adicionalmente, acrescentamos no projeto eletrônico um driver para o módulo wi
 que através de um celular ou tablet possam ser monitorados e programados todos os parâmetros operacionais
 do equipamento.
 
- Deve ser observado que, apesar de atuarmos nos setor de automação industrial por vários anos e termos obtido
+Deve ser observado que, apesar de atuarmos nos setor de automação industrial por vários anos e termos obtido
 orientação e ajuda de vários profissionais de saúde, não temos expertise em equipamentos médicos e portanto, 
 podem ser necessários acréscimos, alterações funcionais ou ajustes no projeto corrente.
 
-Os links a seguir detalham as informaçoes para as duas versões do projeto.
+Os links a seguir detalham as informações para versões e atualizações do projeto.
 
 Toda documentação e o repositório do projeto podem ser usados ​​sem limitações.
 
 Nosso único objetivo com este projeto é ajudar a salvar vidas.
 
-## VPE-19 - Versão 2
+
+## VPE-19 - Versão 2.1 (10/05/2020)
+
+ * Melhorias na fixação dos sensores;
+ * Alterado projeto de fixação do Ambu para permitir a troca mais rápida;
+ * Redimensionado painel de operação;
+ * Reposicionados os motores e o braço de compressão para diminuir o torque.
+
+<p align="center">
+  <img src="../../project/mechanical/v2.1/front_peep.jpeg" height="300">
+  <img src="../../project/mechanical/v2.1/side.png" height="300">
+</p>
+
+### Detalhes do Projeto:
+
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/v2.1/vpe_v21_dfx.zip">VPE19 - DXF Files (V2.1)</a>**
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/v2.1/vpe_v21.stl.zip">VPE19 - STL Files (V2.1)</a>**
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/v2.1/instruction_manual_v21.pdf">VPE19 - Manual de instruções (V2.1)</a>**
+                                                                                      
+
+## VPE-19 - Versão 2 (25/04/2020)
+
+ * Modificado projeto mecânico para operação com 2 motores.
 
 <p align="center">
   <img src="../../project/mechanical/prot7i.jpeg" height="300">
@@ -64,7 +86,9 @@ Nosso único objetivo com este projeto é ajudar a salvar vidas.
 * **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/v2/bill_list_v2.pdf">VPE19 - Lista de insumos</a>**
                                                                                       
 
-## VPE-19 - Versão 1
+## VPE-19 - Versão 1  (23/03/2020)
+
+* Projeto inicial 
 
 <p align="center">
   <img src="../../project/mechanical/PRO_6d.png" height="300">
