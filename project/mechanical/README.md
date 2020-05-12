@@ -95,7 +95,7 @@ Este acessório foi desenvolvido para permitir regular a pressão residual (PEEP
 testes dos ventilador. Pode ser útil nos testes de outras soluções.
 
 <p align="center">
-  <img src="../../project/mechanical/peep/PEEP01.jpeg" height="200">
+  <img src="../../project/mechanical/peep/peep.jpeg" height="200">
 </p>
 
 
