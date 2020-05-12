@@ -69,6 +69,44 @@ Nosso único objetivo com este projeto é ajudar a salvar vidas.
 * **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/v2.1/instruction_manual_v21.pdf">VPE19 - Manual de instruções (V2.1)</a>**
                                                                                       
 
+## CCE - Válvula de captura de expiração
+
+Esta vávula tem por objetivo desviar o fluxo expiratório do AMBU para um filtro 
+e prover um acesso para monitoração da pressão do ciclo respiratório. 
+Ela é instalada na boca do AMBU (remove-se a saída original). Este projeto foi 
+desenvolvido para o AMBU da marca LUMIAR. Outros modelos podem necessitar de 
+adaptações.  
+
+<p align="center">
+  <img src="../../project/mechanical/CCE01.png" height="200">
+</p>
+
+### Detalhes do Projeto:
+
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/CCE_AMBU_STL.zip">CCE-STL Files</a>**
+
+Obs: O pino para encaixe da mangeira do sensor se mostrou muito frágil devido a pequena dimensão. 
+Utilizamos posteriormente um pedaço de tubo plástico de haste de cotonete que funcionou perfeitamente. 
+
+
+## PEEP - Acessório para regular o PEEP
+
+Este acessório foi desenvolvido para permitir regular a pressão residual (PEEP) durante os 
+testes dos ventilador. Pode ser útil nos testes de outras soluções.
+
+<p align="center">
+  <img src="../../project/mechanical/peep/PEEP01.jpeg" height="200">
+</p>
+
+
+### Detalhes do Projeto:
+
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/peep/PEEP_DXF.zip">PEEP-DXF Files</a>**
+* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/peep/PEEP_STL.zip">PEEP-STL Files</a>**
+
+
+
+
 ## VPE-19 - Versão 2 (25/04/2020)
 
  * Modificado projeto mecânico para operação com 2 motores.
@@ -101,24 +139,6 @@ Nosso único objetivo com este projeto é ajudar a salvar vidas.
 * **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/COV19_DXF.zip">VPE - DXF Files</a>**
 * **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/COV19_STL.zip">VPE - STL Files</a>**
 * **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/instruction_manual.zip">VPE - Instructions Manual</a>**
-
-
-## CCE - Válvula de captura de expiração
-
-Esta vávula tem por objetivo desviar o fluxo expiratório do AMBU para um filtro 
-e prover um acesso para monitoração da pressão do ciclo respiratório. 
-Ela é instalada na boca do AMBU (remove-se a saída original). Este projeto foi 
-desenvolvido para o AMBU da marca LUMIAR. Outros modelos podem necessitar de 
-adaptações.  
-
-<p align="center">
-  <img src="../../project/mechanical/CCE01.png" height="300">
-</p>
-
-
-### Detalhes do Projeto:
-
-* **<a href="https://github.com/hitecnologia/cov19/tree/master/project/mechanical/CCE_AMBU_STL.zip">CCE-STL Files</a>**
 
 
 **Links:**
